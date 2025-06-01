@@ -144,7 +144,7 @@ colors = color_maps[color_scheme]
 if page == "Home":
     st.title("Comparison Dashboard")
     st.write("Explore visualizations based on age, weight of Vehicles and many more.")
-    st.markdown("Ecomove empowers you to explore the environmental impact of transportation through vivid, data-driven comparisons. Dive into interactive graphs showcasing CO2, NOx, VOC, PM2.5, and SO2 emissions across Petrol, Diesel, and Electric vehicles—spanning Buses, Trucks, Cars, and Motorcycles. Our cutting-edge visualizations reveal which fuel types and vehicles drive the highest environmental cost, helping you make informed, sustainable choices. Discover the future of mobility with Ecomove’s powerful insights! [Visit Front-End Website](../frontend/index.html)")
+    st.markdown("Ecomove empowers you to explore the environmental impact of transportation through vivid, data-driven comparisons. Dive into interactive graphs showcasing CO2, NOx, VOC, PM2.5, and SO2 emissions across Petrol, Diesel, and Electric vehicles—spanning Buses, Trucks, Cars, and Motorcycles. Our cutting-edge visualizations reveal which fuel types and vehicles drive the highest environmental cost, helping you make informed, sustainable choices. Discover the future of mobility with Ecomove’s powerful insights!")
     st.write("Use the sidebar to navigate to different sections.")
 
 
